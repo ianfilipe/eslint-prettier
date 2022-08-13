@@ -1,5 +1,7 @@
 # eslint-prettier
 
+Repositório para consulta sobre como instalar o ESLint e o eslint-config-prettier para projetos React com TypeScript.
+
 ## ESLint
 
 Para instalar e configurar o ESLINT, rode o comando:
