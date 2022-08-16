@@ -20,3 +20,7 @@ Para instalar o eslint-config-prettier, rode o comando:
 Depois adicione `"prettier"` no "extends" do arquivo `.eslintrc`. Coloque ele por último para sobrescrever outras configurações.
 
 Documentação: [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+
+## Suprimir erros por falta do 'import React'
+
+Adicione `"react/react-in-jsx-scope": "off"` no "rules" do arquivo `.eslintrc`.
